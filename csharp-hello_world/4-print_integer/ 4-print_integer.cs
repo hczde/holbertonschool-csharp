@@ -6,8 +6,8 @@ namespace _4_print_integer
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine(3);
+            int number = 11;
+            Console.WriteLine(number);
         }
     }
 }
