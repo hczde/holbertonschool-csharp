@@ -1,0 +1,11 @@
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.csprojAssemblyReference.cache
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.csproj.CoreCompileInputs.cache
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.AssemblyInfoInputs.cache
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.AssemblyInfo.cs
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.deps.json
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.runtimeconfig.json
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.runtimeconfig.dev.json
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.dll
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.pdb
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.dll
+/home/hczde/Desktop/holbertonschool-csharp/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.pdb
