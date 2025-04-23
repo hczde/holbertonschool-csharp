@@ -1,10 +1,10 @@
 ﻿using System;
+
+class Program
 {
-    class Program
-    {
-        static void Main(string[] args)
-        { 
-            int number = 11;
-        }
-    }
+	static void Main(string[] args)
+	{
+		int number = 972;
+		Console.WriteLine(number);
+	}
 }
