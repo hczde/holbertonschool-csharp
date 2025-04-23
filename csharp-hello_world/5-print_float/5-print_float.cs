@@ -1,10 +1,10 @@
-﻿﻿using System;
+﻿using System;
 
 class Program
 {
 	static void Main(string[] args)
         {
-		float number = 3.14;
-		Console.WriteLine("Float: " + number);
+		float number = 3.14159f;
+        Console.WriteLine("Float: " + number);
         }
 }
