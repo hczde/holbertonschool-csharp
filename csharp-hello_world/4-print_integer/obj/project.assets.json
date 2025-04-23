@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hczde/Desktop/holbertonschool-csharp/3-writeline/3-writeline.csproj",
-      "projectName": "3-writeline",
-      "projectPath": "/home/hczde/Desktop/holbertonschool-csharp/3-writeline/3-writeline.csproj",
+      "projectUniqueName": "/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj",
+      "projectName": "4-print_integer",
+      "projectPath": "/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj",
       "packagesPath": "/home/hczde/.nuget/packages/",
-      "outputPath": "/home/hczde/Desktop/holbertonschool-csharp/3-writeline/obj/",
+      "outputPath": "/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/home/hczde/dotnet/sdk/NuGetFallbackFolder"
