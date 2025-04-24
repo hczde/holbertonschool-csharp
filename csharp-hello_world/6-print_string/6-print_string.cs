@@ -5,6 +5,6 @@ class Program
 	static void Main(string[] args)
 	{
 		string str = "Holberton School";
-		Console.WriteLine(str.SubString(8));
+		Console.WriteLine(str.Substring(0,9));str.sub
     }
 }

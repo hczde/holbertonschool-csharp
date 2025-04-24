@@ -2,3 +2,10 @@
 /home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.csproj.CoreCompileInputs.cache
 /home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfoInputs.cache
 /home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfo.cs
+/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.deps.json
+/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.json
+/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.dev.json
+/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.dll
+/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.pdb
+/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.dll
+/home/hczde/Desktop/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.pdb
