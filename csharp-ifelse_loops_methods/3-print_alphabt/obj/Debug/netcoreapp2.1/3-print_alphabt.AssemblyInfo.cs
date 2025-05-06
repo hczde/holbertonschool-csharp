@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-print_alphabt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62c287f539cc79d0c5cee86d5574b4363c92f770")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4748cb7937e7a0aac7953f62e5050f5d9ae805a")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-print_alphabt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-print_alphabt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
