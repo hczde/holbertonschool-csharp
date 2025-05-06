@@ -8,4 +8,12 @@ namespace _5_print_comb
         {
 
             for (int i = 0; i <= 99; i++)
-    Console.Write("{0},", i);
+
+                if (i != 99)
+                    Console.Write("{0:D2} ", i);
+                else
+                    Console.Write("{0:D2}\n", i);
+        }
+
+    }
+}

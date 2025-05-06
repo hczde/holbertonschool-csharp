@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5-print_comb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f31094bc345a6d589e4466eb70976259961347")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2128801e1f2e50e42eeeb3ff3c1592a6b633d0f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("5-print_comb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5-print_comb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
