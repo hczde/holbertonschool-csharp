@@ -1,12 +1,12 @@
 ﻿using System;
 
-class Program
+class Character
 {
     public static bool IsLower(char c)
-    { 
-        if (c >=  'a' && c <= 'z')
+    {
+        if (c >= 'a' && c <= 'z')
             return true;
-       else 
-            return false; 
+        else
+            return false;
     }
 }
