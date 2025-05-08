@@ -1,15 +1,12 @@
-﻿class Program
+﻿using System;
+class Number
 {
-    static void Main(string[] args)
-    {  public static int PrintLastDigit(int number)
+    public static int PrintLastDigit(int number)
     {
-        int x = number % 10;
-        if (x < 0)
-            x = x * -1;
-        Console.Write(x);
-        return x; 
-    }
-
-
+        int ud = number % 10;
+        if (ud < 0)
+            ud = ud * -1;
+        Console.Write(ud);
+        return ud;
     }
 }
